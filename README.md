@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Max
+- 👀 I’m interested in the world of coding
+- 🌱 I’m currently learning new things, mostly HTML/CSS/JAVASCRIPT and so on.....
+- 📫 How to reach me maxdevocht@hotmail.com
