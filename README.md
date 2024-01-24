@@ -6,6 +6,6 @@
 
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML` `CSS` `JavaScript` `React` `Material-UI` `Framer-Motion`
+**Frontend Development:** `HTML` `CSS` `JavaScript` `React`
  
 **Version Control:** `Git` `GitHub Desktop`
