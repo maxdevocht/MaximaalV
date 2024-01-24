@@ -1,5 +1,3 @@
-### About Me
-
 - 👋 Hi, I’m Max
 - 📍 Based in Arnhem, The Netherlands
 - 👀 I’m interested in anything new..
