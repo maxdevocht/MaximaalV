@@ -8,4 +8,4 @@
 
 **Frontend Development:** `HTML` `CSS` `JavaScript` `React`
  
-**Version Control:** `Git` `GitHub Desktop`
+**Version Control:** `Git` `Github` `GitHub Desktop`
