@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning new things, mostly coding, coding and coding..
 - 📫 How to reach me maxdevocht@hotmail.com
 
-## 📦 Toolbox
+## 🎓 Skills
 
 **Frontend Development:** `HTML` `CSS` `JavaScript` `React`
  
